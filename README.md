@@ -105,12 +105,6 @@ Before / After Comparison:
 
 ---
 
-## License
-
-MIT License
-
----
-
 ## Credits
 
 - Developed by NoahBK
