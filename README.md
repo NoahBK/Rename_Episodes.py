@@ -101,7 +101,7 @@ The script will scan all video files in the folder, extract metadata, and rename
 ## Screenshots / Visual Examples
 
 Before / After Comparison:  
-![Before vs After](https://i.ibb.co/JRQxDMc9/a0988278-7b99-467f-9622-6c7c8e983117.png)
+[![Descriptive Alt Text](https://i.ibb.co/qM50TPDv/a0988278-7b99-467f-9622-6c7c8e983117.png)](https://ibb.co/5WFYbf1P)
 
 ---
 
